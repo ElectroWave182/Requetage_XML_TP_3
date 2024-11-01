@@ -1,0 +1,55 @@
+<list>
+	<order id="o001">
+		<customer id="cust01" />
+		<date>03-01-2012</date>
+		<book id="bk101">
+			<qty>1</qty>
+		</book>
+		<book id="bk111">
+			<qty>1</qty>
+		</book>		
+	</order>
+	<order id="o002">
+		<customer id="cust05" />
+		<date>03-05-2012</date>
+		<book id="bk110">
+			<qty>3</qty>
+		</book>
+		<book id="bk112">
+			<qty>3</qty>
+		</book>		
+	</order>
+	<order id="o003">
+		<customer id="cust01" />
+		<date>03-06-2012</date>
+		<book id="bk109">
+			<qty>1</qty>
+		</book>	
+	</order>	
+	<order id="o004">
+		<customer id="cust04" />
+		<date>03-08-2012</date>
+		<book id="bk103">
+			<qty>1</qty>
+		</book>	
+		<book id="bk104">
+			<qty>1</qty>
+		</book>	
+		<book id="bk105">
+			<qty>1</qty>
+		</book>	
+		<book id="bk106">
+			<qty>1</qty>
+		</book>			
+	</order>	
+	<order id="o005">
+		<customer id="cust02" />
+		<date>03-10-2012</date>
+		<book id="bk108">
+			<qty>10</qty>
+		</book>	
+		<book id="bk109">
+			<qty>10</qty>
+		</book>			
+	</order>		
+</list>

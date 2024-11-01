@@ -1,0 +1,42 @@
+<directory>
+	<customer id="cust01">
+		<name>Cardella, Ted</name>
+		<address>6020 Gates Ct</address>
+		<city>Fort Wayne</city>
+		<state>IN(Indiana)</state>
+		<zipcode>46809-2222</zipcode>
+		<phone>(260) 747-2609</phone>
+	</customer>
+	<customer id="cust02">
+		<name>Botta, Clinton</name>
+		<address>16044 Sherwin Ct</address>
+		<city>New Freedom</city>
+		<state>PA(Pennsylvania)</state>
+		<zipcode>17349-9298</zipcode>
+		<phone>(717) 235-2124</phone>
+	</customer>	
+	<customer id="cust03">
+		<name>Decicco, Christian</name>
+		<address>7529 E Golf Links Rd</address>
+		<city>Tucson</city>
+		<state>AZ(Arizona)</state>
+		<zipcode>85730-1115</zipcode>
+		<phone>(520) 751-4676</phone>
+	</customer>	
+	<customer id="cust04">
+		<name>Prochnow, Tia</name>
+		<address>1635 Chippewa Dr NW</address>
+		<city>Rochester</city>
+		<state>MN(Minnesota)</state>
+		<zipcode>55901-8847</zipcode>
+		<phone>(507) 288-3511</phone>
+	</customer>		
+	<customer id="cust05">
+		<name>World, Alana</name>
+		<address>321 E 54th St</address>
+		<city>New York</city>
+		<state>NY(New York)</state>
+		<zipcode>10022-4933</zipcode>
+		<phone>(212) 832-5673</phone>
+	</customer>		
+</directory>
